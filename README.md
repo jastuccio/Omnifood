@@ -2,11 +2,6 @@
 
 # Omnifood - Sveltekit
 
-## [Staging site]()
+## visit the staging [Staging site](https://jva-omnifood.netlify.app/)
 
 A migration of the OmniFood website into [the amazing SvelteKit!](https://kit.svelte.dev/) framework
-
-```bash
-# start the server and open the app in a new browser tab
-npm run dev --open
-```
